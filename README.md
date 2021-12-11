@@ -11,6 +11,7 @@ En caso de realizar conexiones, colocar el diagrama de conexciones o un video co
 Lista de ejercicios:
 
 * Creación de repositorio, clonar un repositorio desde Github desktop y desde VSC. Con commit inicial y pullrequest.
+[git basic](https://github.com/LuisAngelLF1/git-tutorial-basic)
 * ESP32CAM ejercicio de cámara
 * ESP32CAM y MQTT
 * Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
