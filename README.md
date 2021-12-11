@@ -11,9 +11,10 @@ En caso de realizar conexiones, colocar el diagrama de conexciones o un video co
 Lista de ejercicios:
 
 * Creación de repositorio, clonar un repositorio desde Github desktop y desde VSC. Con commit inicial y pullrequest.
-[git basic](https://github.com/LuisAngelLF1/git-tutorial-basic)
-* ESP32CAM ejercicio de cámara
+[git basic](https://github.com/LuisAngelLF1/git-tutorial-basic) [git desde desktop y VSC](https://github.com/LuisAngelLF1/Diplomado-IoT)
+* ESP32CAM ejercicio de cámara [ejemplo camara ESP32](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ejemploCamEsp32)
 * ESP32CAM y MQTT
+Además se incluye el enlace al repositorio general con los ejercicios con ESP32CAM[ESP32CAM](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2)
 * Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
 * Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds
 * Realizar un programa en Java que ordena monedas de la misma denominación pero 4 tienen defecto.
