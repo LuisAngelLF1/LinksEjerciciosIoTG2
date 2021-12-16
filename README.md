@@ -16,7 +16,7 @@ Lista de ejercicios:
 * ESP32CAM y MQTT[esp32 y mqtt](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ESP32MQTT)
 Además se incluye el enlace al repositorio general con los ejercicios con ESP32CAM[ESP32CAM](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2)
 * Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
-* Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds
+* Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds [secuencia de leds](https://github.com/LuisAngelLF1/EjemplosCRaspberry-SICG2)
 * Realizar un programa en Java que ordena monedas de la misma denominación pero 4 tienen defecto.
 * Creación de una base de datos con los datos del sensor a distancia.
 * Ordenar datos obtenidos con la Raspberry y el sensor de distancia. Con un programa en Java y base de datos MySQL
