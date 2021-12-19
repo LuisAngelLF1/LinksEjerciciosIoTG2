@@ -13,7 +13,7 @@ Lista de ejercicios:
 * Creación de repositorio, clonar un repositorio desde Github desktop y desde VSC. Con commit inicial y pullrequest.
 [Git basic](https://github.com/LuisAngelLF1/git-tutorial-basic) y [Git desde desktop y VSC](https://github.com/LuisAngelLF1/Diplomado-IoT)
 * ESP32CAM ejercicio de cámara [Ejemplo camara ESP32](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ejemploCamEsp32)
-* ESP32CAM y MQTT[ESP3232 y MQTT](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ESP32MQTT)
+* ESP32CAM y MQTT [ESP3232 y MQTT](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ESP32MQTT)
  -Además se incluye el enlace al repositorio general con los ejercicios con ESP32CAM [ESP32CAM](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2)
 * Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
 * Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds [Secuencia de leds](https://github.com/LuisAngelLF1/EjemplosCRaspberry-SICG2)
@@ -21,5 +21,5 @@ Lista de ejercicios:
 * Creación de una base de datos con los datos del sensor a distancia.
 * Ordenar datos obtenidos con la Raspberry y el sensor de distancia. Con un programa en Java y base de datos MySQL
 * Flow en NodeRed y MQTT, que envía los datos del uso de los core, temperatura de la Raspberry pi [Flujo node core raspberry](https://github.com/LuisAngelLF1/FlujoNodeCoreRaspberry)
-* Encender un led con Pi4j en Raspberry y Java
+* Encender un led con Pi4j en Raspberry y Java [pi4j minimal example](https://github.com/LuisAngelLF1/pi4j-example-minimalLuis)
 * Creación de un WebServer con JavaScript [WebServer con JavaScript](https://github.com/LuisAngelLF1/ledjsWeb)
