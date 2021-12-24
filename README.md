@@ -18,8 +18,8 @@ Lista de ejercicios:
 * Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
 * Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds [Secuencia de leds](https://github.com/LuisAngelLF1/EjemplosCRaspberry-SICG2)
 * Realizar un programa en Java que ordena monedas de la misma denominación pero tienen defecto.[Monedas defectuosas](https://github.com/LuisAngelLF1/MonedasDefectuosas)
-* Creación de una base de datos con los datos del sensor a distancia.
-* Ordenar datos obtenidos con la Raspberry y el sensor de distancia. Con un programa en Java y base de datos MySQL
+* Creación de una base de datos con los datos del sensor a distancia. [BBDD distancias](https://github.com/LuisAngelLF1/JavaMysqlDistancia)
+* Ordenar datos obtenidos con la Raspberry y el sensor de distancia. Con un programa en Java y base de datos MySQL [BBDD distancia ordenadas](https://github.com/LuisAngelLF1/JavaMysqlOrdenDistancia)
 * Flow en NodeRed y MQTT, que envía los datos del uso de los core, temperatura de la Raspberry pi [Flujo node core raspberry](https://github.com/LuisAngelLF1/FlujoNodeCoreRaspberry)
 * Encender un led con Pi4j en Raspberry y Java [pi4j minimal example](https://github.com/LuisAngelLF1/pi4j-example-minimalLuis)
 * Creación de un WebServer con JavaScript [WebServer con JavaScript](https://github.com/LuisAngelLF1/ledjsWeb)
