@@ -15,7 +15,7 @@ Lista de ejercicios:
 * ESP32CAM ejercicio de cámara [Ejemplo camara ESP32](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ejemploCamEsp32)
 * ESP32CAM y MQTT [ESP3232 y MQTT](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/ESP32MQTT)
  -Además se incluye el enlace al repositorio general con los ejercicios con ESP32CAM [ESP32CAM](https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2)
-* Utilizando Raspberry y la biblioteca Wiringpi. Lectura de sensor de temperatura
+* Utilizando Raspberry . Lectura de sensor de temperatura [DHT11](https://github.com/LuisAngelLF1/sensores/tree/main/dht11)
 * Utilizando Raspberry y la biblioteca Wiringpi. Encendido secuencial de cuatro leds [Secuencia de leds](https://github.com/LuisAngelLF1/EjemplosCRaspberry-SICG2)
 * Realizar un programa en Java que ordena monedas de la misma denominación pero tienen defecto.[Monedas defectuosas](https://github.com/LuisAngelLF1/MonedasDefectuosas)
 * Creación de una base de datos con los datos del sensor a distancia. [BBDD distancias](https://github.com/LuisAngelLF1/JavaMysqlDistancia)
